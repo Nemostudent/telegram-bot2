@@ -1,0 +1,31 @@
+# Environment variables - لا ترفعها أبداً على GitHub
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Images الصور الحساسة (اختياري - شيلها لو مش عايز ترفعها)
+# images/
